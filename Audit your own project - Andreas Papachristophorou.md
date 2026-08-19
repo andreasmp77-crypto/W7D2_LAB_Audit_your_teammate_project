@@ -172,13 +172,6 @@ The classification could change if the system is later used to provide legal adv
 
 # Phase 3: Clarifying questions log
 
-<aside>
-💡
-
-Beginner tip: a clarifying question is not “I don’t know.” It is a professional audit move. It means: “Before I give a final opinion, I need this missing fact.”
-
-</aside>
-
 ## Clarifying question 1
 
 - **Question:** What is the procedure for approving and uploading policy documents into the Google Drive folder, and how often are those documents reviewed or updated?
@@ -200,32 +193,9 @@ Beginner tip: a clarifying question is not “I don’t know.” It is a profess
 - **Why it matters for risk classification or obligation mapping:** Even if the system is not high-risk under the AI Act, GDPR and information-security obligations may still apply. This affects data minimisation, access control, retention, processor agreements, and possible international transfer checks.
 - **Provisional assumption if I do not get an answer:** I assume the intended knowledge base does not require personal data, but accidental inclusion remains a risk that must be controlled before production deployment.
 
-## Optional additional questions
-
-### Clarifying question 4
-
-- **Question:** Answer here.
-- **What I need to know:** Answer here.
-- **Why it matters for risk classification or obligation mapping:** Answer here.
-- **Provisional assumption if I do not get an answer:** Answer here.
-
-### Clarifying question 5
-
-- **Question:** Answer here.
-- **What I need to know:** Answer here.
-- **Why it matters for risk classification or obligation mapping:** Answer here.
-- **Provisional assumption if I do not get an answer:** Answer here.
-
 ---
 
 # Phase 4: Audit report
-
-<aside>
-📄
-
-Keep this audit report to two pages maximum for submission. The sections below match the lab instructions.
-
-</aside>
 
 ## Section 1: System summary
 
