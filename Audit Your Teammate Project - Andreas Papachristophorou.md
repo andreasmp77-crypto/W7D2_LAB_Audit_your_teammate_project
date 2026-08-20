@@ -236,9 +236,6 @@ The system is best classified as limited risk / transparency under Article 50 be
 - **Recommended action:** Implement a distinct procedure to ensure the knowledge base is reviewed and kept up to date. Each answer should cite or link to the source document used, so employees and the policy team can verify the answer.
 - **Escalation needed?** Yes — deployer, with the help of the consultant.
 
-### Additional findings
-
-Add more findings if needed.
 
 ## Section 5: Overall recommendation
 
@@ -253,3 +250,6 @@ The system should be allowed to proceed only with conditions because the current
 ## Section 6: What this report is not
 
 This report is not a legal opinion, not a conformity assessment, and not a certification. Conclusions should be verified with legal counsel before any EU market placement.
+
+# Phase 5: Debrief conversation
+
